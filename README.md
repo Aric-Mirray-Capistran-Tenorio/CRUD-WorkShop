@@ -9,7 +9,7 @@ UIII Act 3 CRUD tabla relacional. BD_WorkShop. Ingresar Datos. Cardinalidad y Ll
 ## Index
   ![Captura_index](https://github.com/Aric-Mirray-Capistran-Tenorio/CRUD-WorkShop/assets/143548368/e55564fb-c70f-4c08-b4ac-e3bfc306c2ca)
 ## Lista de Productos
-  ![Captura_LPro](https://github.com/Aric-Mirray-Capistran-Tenorio/CRUD-WorkShop/assets/143548368/77930dc9-498c-4109-8a76-96bc47ed5252)
+ ![captura_LProd](https://github.com/Aric-Mirray-Capistran-Tenorio/CRUD-WorkShop/assets/143548368/60cf6e36-1301-47d7-a182-4f85311ca5ac)
 ## Fomulario Productos
   ![Captura_formNewPro](https://github.com/Aric-Mirray-Capistran-Tenorio/CRUD-WorkShop/assets/143548368/e35ca296-09d5-4ba6-9045-42db708805c5)
 ## Lista de Talleres
